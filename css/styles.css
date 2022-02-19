@@ -1,0 +1,64 @@
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin: 0;
+}
+
+body {
+  background-color: #EAFFFF;
+  font-family: 'Roboto Mono', monospace;
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 200px;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 1px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+
+.mountain {
+  padding-top: 100px;
+}
+
+.soft {
+  text-decoration: underline;
+}
+
+.profile {
+  display: inline-block;
+}
+
+.skill-list {
+  display: inline-block;
+}
+
+.work-experience {
+  display: inline-block;
+}
+
+.work-experience-table {
+  text-align: left;
+}
