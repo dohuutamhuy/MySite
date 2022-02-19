@@ -14,6 +14,7 @@ body {
 .top-container {
   position: relative;
   display: block;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 200px;
@@ -29,13 +30,13 @@ body {
 
 .top-cloud {
   position: absolute;
-  right: 350px;
+  right: 30px;
   top: 1px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 30px;
   top: 250px;
 }
 
